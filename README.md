@@ -1,13 +1,6 @@
 # Hi there 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/shamsul_github_banner_final.png" alt="Shamsul Arifin Banner" width="100%" />
-</p>
 
-### Hi there 👋 I'm Shamsul Arifin
-- 💻 Frontend Developer — React · Node.js · TypeScript
-- 📫 yourmail@gmail.com
-- 🔗 https://linkedin.com/in/shamsularifin
 
 
 
