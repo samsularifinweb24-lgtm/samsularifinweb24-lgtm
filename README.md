@@ -2,7 +2,7 @@
 <!-- <img src="https://scontent.fdac41-2.fna.fbcdn.net/v/t39.30808-6/574526011_122131933502958699_5135651641595595298_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=Gj6yWgR_oCEQ7kNvwGIHZ9i&_nc_oc=Adkc3WPyEkKbq3GXxxpFTISON50DuoQx0TY_ZoK_lr8h5qjh4CtLhV-WgrRhxQCyym0&_nc_zt=23&_nc_ht=scontent.fdac41-2.fna&_nc_gid=U9SZaBruOD256-xXsKoTDg&oh=00_Afg5cjxTtEXQwWpVYbfCW0HtHH_-jrh5NhdciXxFz9QaJw&oe=69101280" alt="Profile Image" width="600" /> -->
 
 <p align="center">
-  ![Your Name - Web Developer GitHub Banner](YOUR_IMAGE_URL_HERE)
+  <img src="YOUR_IMAGE_URL_HERE" alt="Your Name - Web Developer GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">samsul arefin</span></h1>
