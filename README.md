@@ -1,9 +1,7 @@
 
 <!-- <img src="https://scontent.fdac41-2.fna.fbcdn.net/v/t39.30808-6/574526011_122131933502958699_5135651641595595298_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=Gj6yWgR_oCEQ7kNvwGIHZ9i&_nc_oc=Adkc3WPyEkKbq3GXxxpFTISON50DuoQx0TY_ZoK_lr8h5qjh4CtLhV-WgrRhxQCyym0&_nc_zt=23&_nc_ht=scontent.fdac41-2.fna&_nc_gid=U9SZaBruOD256-xXsKoTDg&oh=00_Afg5cjxTtEXQwWpVYbfCW0HtHH_-jrh5NhdciXxFz9QaJw&oe=69101280" alt="Profile Image" width="600" /> -->
-<img
-  src="https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/578273849_122132285618958699_4892017018054949451_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=IINvokMX3-MQ7kNvwG7D7BK&_nc_oc=AdneMNyocbIOsWaGYmf8YPDFJPhsmcasQY84l9QcdM9PgDnQ0un316BXgMZkUs2eo0M&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=qMMJoLKW-YOSjGKUITV1GQ&oh=00_AfipVTD1z236A0SlPfhc682PlIS-XZsgQwq3j4jy6Zy3AA&oe=6912853E"
-  alt="Image description"
-  style="max-width:100%; height:auto; display:block; margin:0 auto;">
+<img src="https://scontent.fdac41-2.fna.fbcdn.net/v/t39.30808-6/578264933_122132297786958699_1170653643471589454_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=kUQJkyNy1uUQ7kNvwGBIzd_&_nc_oc=AdlbgNc_AoZA_7QddYYS8onRIVtI8nSvKhzok278PDnAt_fWO_ubetWKSMqtp_WUaK4&_nc_zt=23&_nc_ht=scontent.fdac41-2.fna&_nc_gid=H8gYEZ5ctppHnVTWmsajtA&oh=00_Afh79qxriZ9BRQiYKBr0fudKdBoMLAh4PUWEODcdQTrn9g&oe=69127D61" alt="Second image description">
+
 
 
 
